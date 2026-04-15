@@ -1,4 +1,19 @@
-# Spatio-Temporal Assessment of Urban Expansion in Lahore (2000–2025)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Urban%20Expansion%20Assessment&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+
+
+
+
+<p align="center">
+  ### Spatio-Temporal Assessment of Urban Expansion in Lahore (2000–2025)
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-ArcGIS%20Pro-blue" />
+  <img src="https://img.shields.io/badge/Data-Landsat-green" />
+  <img src="https://img.shields.io/badge/Method-Remote%20Sensing-orange" />
+  <img src="https://img.shields.io/badge/Analysis-LULC%20Change-critical" />
+</p>
 
 ## Overview
 This project analyzes **urban expansion dynamics in Lahore District, Pakistan** over a 25-year period (2000–2025) using **Remote Sensing (RS)** and **Geographic Information Systems (GIS)** techniques.
